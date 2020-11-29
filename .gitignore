@@ -1,0 +1,10 @@
+.history/*
+__pycache__/**
+tcpconnector/__pycache__/
+build/**
+dist/**
+tcpconnector.egg-info/**
+.pytest_cache/*
+test/tcpconnector/__pycache__/*
+tcpconnector-env/**
+.vscode/settings.json
