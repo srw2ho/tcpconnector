@@ -49,10 +49,10 @@ logger.addHandler(fl)
 
 
 globtcpclient = None
-# target = TCPTarget ("Zysterne",3005,timeout=10)
+target = TCPTarget ("Zysterne",3005,timeout=10)
 
 
-target = TCPTarget ("192.168.1.220",3006,timeout=10)
+# target = TCPTarget ("192.168.1.219",3006,timeout=10)
 
 
 
@@ -64,7 +64,7 @@ def createASCIIpayload(payload):
     
     buf = io.BytesIO()
     cmdlen =  len (payload) 
-    cmdlenheader = cmdlen.to_bytes(4, byteorder="little")
+    cmdlenheader = cmdlen.to_bytes(4, byteorder="big")
     buf.write(cmdlenheader)
     header = bytes([0x55,0x55])    
     buf.write(header)

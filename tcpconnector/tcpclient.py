@@ -72,7 +72,8 @@ class TCPClient(object):
 
 
     def calcualte_length(self, data):
-        len = int.from_bytes(data[0:3], byteorder = 'little', signed = False)
+        # len = int.from_bytes(data, byteorder = 'little', signed = False)
+        len = int.from_bytes(data[0:4], byteorder = 'big', signed = False)
         return len
 
     async def clearReader(self):
