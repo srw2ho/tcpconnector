@@ -28,7 +28,7 @@ class TCPTarget:
 		# return 'ldap/%s@%s' % (self.host,self.domain)  #ldap/WIN2019AD.test.corp @ TEST.CORP
 
 	def get_host(self):
-	 	return "11"
+	 	return self.host
 		# return '%s://%s:%s' % (self.proto, self.host, self.port)
 
 	def is_ssl(self):

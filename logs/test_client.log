@@ -1299,3 +1299,212 @@
 2020-11-17 20:02:57,958 - ERROR - msgpackdeserialize Error: unpack(b) received extra data.
 2020-11-17 20:02:58,281 - ERROR - msgpackdeserialize Error: unpack(b) received extra data.
 2020-11-17 20:02:58,745 - ERROR - msgpackdeserialize Error: unpack(b) received extra data.
+2020-12-24 11:53:01,915 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:53:15,942 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:53:29,948 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:55:30,166 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-24 11:57:01,689 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-24 11:57:15,746 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:57:29,746 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:57:43,757 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:57:57,783 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:58:11,805 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:58:25,829 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:58:39,839 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:58:53,875 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:59:07,902 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:59:21,924 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:59:35,939 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 11:59:49,958 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:00:03,996 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:00:18,021 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:00:32,073 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:00:46,088 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:01:00,119 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:01:14,134 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:01:28,151 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:01:42,177 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:01:56,186 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:02:10,212 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:02:24,231 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 12:33:52,080 - ERROR - receivedata error:0 bytes read on a total of 4 expected bytes
+2020-12-24 15:56:44,332 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 15:56:58,341 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:16:44,934 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-24 16:16:58,970 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:17:12,981 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:17:27,002 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:17:41,018 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:17:55,032 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:18:09,051 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:18:23,072 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:18:37,092 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:18:51,115 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:19:05,122 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:19:19,142 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:19:33,163 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:19:47,186 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:20:01,242 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:20:15,261 - ERROR - connecttoServer-TCP-Error: 
+2020-12-24 16:20:29,261 - ERROR - connecttoServer-TCP-Error: 
+2020-12-25 16:57:50,370 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:57:56,638 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:04,383 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:10,959 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:18,205 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:22,232 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:26,256 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:30,284 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:34,353 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:38,376 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:42,398 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:46,432 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:50,458 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:54,486 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:58:58,537 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:02,560 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:06,586 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:13,908 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:17,954 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:22,872 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:26,902 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:32,465 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:36,482 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:40,507 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:45,545 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:49,597 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:53,693 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 16:59:57,720 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:01,758 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:05,777 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:09,801 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:13,929 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:41,442 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:00:47,551 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:00:53,627 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:00:59,767 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:01:05,925 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:01:11,989 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:01:18,114 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:01:24,234 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:01:30,313 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:02:55,862 - ERROR - receivedata error:[WinError 64] Der angegebene Netzwerkname ist nicht mehr verfügbar
+2020-12-25 17:03:01,947 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:03:08,036 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:03:14,618 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:03:20,671 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:03:26,732 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:03:38,859 - ERROR - connecttoServer-TCP-Error: [WinError 121] Das Zeitlimit für die Semaphore wurde erreicht
+2020-12-25 17:10:20,406 - ERROR - receivedata error:0 bytes read on a total of 4 expected bytes
+2020-12-25 17:10:26,472 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:10:32,516 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:10:38,611 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:10:44,707 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:10:50,824 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:10:56,883 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:03,021 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:09,098 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:15,197 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:21,338 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:27,442 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:33,549 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:39,608 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:45,688 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:51,764 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:11:57,827 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:03,949 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:10,011 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:16,095 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:22,171 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:28,221 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:34,286 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:40,361 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:46,454 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:52,573 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:12:58,687 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:04,769 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:10,830 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:16,912 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:22,986 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:29,101 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:35,167 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:41,223 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:47,334 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:53,434 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:13:59,557 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:14:07,621 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:14:13,691 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:14:19,760 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:14:25,799 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:15:46,645 - ERROR - receivedata error:0 bytes read on a total of 4 expected bytes
+2020-12-25 17:15:52,781 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:15:58,880 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:04,940 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:11,043 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:17,095 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:25,150 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:31,227 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-25 17:16:37,334 - ERROR - connecttoServer-TCP-Error: [WinError 1225] Der Remotecomputer hat die Netzwerkverbindung abgelehnt
+2020-12-26 09:44:44,631 - ERROR - receivedata error:[WinError 121] Das Zeitlimit für die Semaphore wurde erreicht
+2020-12-26 09:52:42,860 - ERROR - receivedata error:[WinError 121] Das Zeitlimit für die Semaphore wurde erreicht
+2020-12-26 09:52:49,189 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:52:55,501 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:01,851 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:08,153 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:14,442 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:20,760 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:27,099 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:33,434 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:39,772 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:46,071 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:52,367 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:53:58,700 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:04,983 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:11,276 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:17,581 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:23,902 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:30,191 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:36,486 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:42,782 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:49,077 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:54:55,394 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:01,780 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:08,081 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:14,367 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:20,683 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:26,990 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:33,368 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:39,725 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:46,004 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:52,333 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:55:58,670 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:05,019 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:11,312 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:17,650 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:23,997 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:30,318 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:36,642 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:42,971 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:49,296 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:56:55,647 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:01,932 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:08,237 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:14,565 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:20,878 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:27,180 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:33,530 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:39,873 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:46,161 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:52,460 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:57:58,787 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:05,072 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:11,395 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:17,728 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:24,013 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:30,302 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:36,609 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:42,925 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:49,266 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:58:55,561 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 09:59:01,899 - ERROR - connecttoServer-TCP-Error: [Errno 11001] getaddrinfo failed
+2020-12-26 11:16:12,376 - ERROR - readinqueue error:'str' object has no attribute 'Split'

@@ -32,6 +32,9 @@ class msgPayload(object):
         self._payload = payoad
         # self._target = target
         self._TCPClient = tcpClient
+    
+    def getTCPClient(self):
+        return  self._TCPClient
 
 class msgConnectionInfo(object):
     

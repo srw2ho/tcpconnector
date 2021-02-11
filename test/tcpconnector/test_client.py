@@ -86,8 +86,30 @@ def msgpackdeserialize(payload):
         logger.info(f'msgpackdeserialize Error: {exception}')
         # print(exception)
         return {}
+
+def parseCommand(commands,JsonDict):
+    splittedcommands = commands.split(",")
+    for command in splittedcommands:
+        values = command.split("=")
+        if len(values) > 1:
+            param = values[0]
+            value = values[1]
+            JsonDict[param] = value
+            
         
-def doSolar(payload):
+
+       
+def splitintoCommands(payload,JsonDict):
+    strippedpayload = payload.replace(" ", "")
+    commands = strippedpayload.split(";")
+    for command in commands:
+        parseCommand(command,JsonDict )
+    
+def doBinaryCommands(data):
+    JsonDict = dict()
+    decodeddata = data._payload.decode("utf-8") 
+    splitintoCommands(decodeddata,JsonDict)
+    
     return 
 
 def domsgPackSolar(data):
@@ -98,6 +120,8 @@ def doJsonPackSolar(data):
     decodeddata = data._payload.decode("utf-8") 
     return json.loads(data._payload)
 
+def doASCIISolar(data):
+    return 
      
         
 async def readinqueue(in_queue): 
@@ -105,8 +129,10 @@ async def readinqueue(in_queue):
     while True:
         try:
             data = await in_queue.get()
+            if data._msgPayloadType == msgPayloadType.BINARY:
+                doBinaryCommands(data)
             if data._msgPayloadType == msgPayloadType.ASCIISOLAR:
-                doSolar(data)
+                doASCIISolar(data)
             if data._msgPayloadType == msgPayloadType.MSGPACKSOLAR:
                 package = domsgPackSolar(data)
                 print (package)
