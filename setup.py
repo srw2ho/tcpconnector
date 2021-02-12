@@ -28,9 +28,11 @@ DEPENDENCIES = DEPENDENCIES_ARTIFACTORY + DEPENDENCIES_GITHUB
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
+
 setuptools.setup(
     name=NAME,
-    version_format='{tag}.dev{commitcount}+{gitsha}',
+    # version_format='{tag}.dev{commitcount}+{gitsha}',
+    version_format='{tag}.dev{ccount}+git.{sha}',
     author="srw2ho",
     author_email="",
     description="",
