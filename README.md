@@ -24,9 +24,11 @@ pip wheel git+https://github.com/srw2ho/tcpconnector.git
 
 # copy dist to offline device
 
-# install (on offline device)
+# install ( offline install)
 
 ```
+
+pip install git+https://github.com/srw2ho/tcpconnector.git
 
 ### Usage
 ```python
