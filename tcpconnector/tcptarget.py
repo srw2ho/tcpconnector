@@ -2,9 +2,10 @@
 import enum
 import ssl
 class TCPTarget:
-	def __init__(self, host, port = 389, tree = None, proxy = None, timeout = 10):
+	def __init__(self, host,aliashost, port = 389, tree = None, proxy = None, timeout = 10):
 
 		self.host = host
+		self.aliashost = aliashost
 		self.tree = tree
 		self.port = port
 		self.proxy = proxy
@@ -31,6 +32,12 @@ class TCPTarget:
 	 	return self.host
 		# return '%s://%s:%s' % (self.proto, self.host, self.port)
 
+	def get_aliashost(self):
+		if self.aliashost == "":
+			return self.aliashost
+		else: return self.aliashost
+		# return '%s://%s:%s' % (self.proto, self.host, self.port)
+  
 	def is_ssl(self):
 	    return False
 		# return self.proto == LDAPProtocol.SSL
